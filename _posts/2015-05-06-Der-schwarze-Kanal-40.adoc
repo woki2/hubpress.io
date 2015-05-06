@@ -4,3 +4,15 @@
 
 Hiho, neuer Server und kleine aber feine Blogsoftware.
 link:http://heise.de/[Heise Online]
+
+TIP: tuip
+
+IMPORTANT: zui
+
+WARNING: Warning.
+
+	
+CAUTION: Caution.
+
+NOTE: tes
+
