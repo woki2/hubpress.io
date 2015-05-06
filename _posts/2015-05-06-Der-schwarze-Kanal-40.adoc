@@ -1,5 +1,6 @@
-= liebes Tagebuch
+= Der schwarze Kanal 4.0
 
-:hp-tags: woki // 2015-05-06 15:10
+:published_at: 2015-05-06
 
-image::http://ecx.images-amazon.com/images/I/31XTwL325HL.jpg[GitHub mascot]
+Hiho, neuer Server und kleine aber feine Blogsoftware.
+link:http://heise.de/[Heise Online]
