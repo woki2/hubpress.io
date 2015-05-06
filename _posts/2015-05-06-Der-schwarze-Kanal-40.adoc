@@ -4,16 +4,6 @@
 
 Hiho, neuer Server und kleine aber feine Blogsoftware.
 
-http://hubpress.io/[HubPress]
+link:http://hubpress.io/[HubPress]
 
-TIP: tipp.
-
-IMPORTANT: 2.
-
-WARNING: Warning.
-
-	
-CAUTION: Caution.
-
-NOTE: note.
 
