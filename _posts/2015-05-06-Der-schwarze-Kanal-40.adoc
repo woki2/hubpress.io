@@ -3,16 +3,16 @@
 :published_at: 2015-05-06
 
 Hiho, neuer Server und kleine aber feine Blogsoftware.
-link:http://heise.de/[Heise Online]
+link:http://hubpress.io/[HubPress]
 
-TIP: tuip
+TIP: tipp
 
-IMPORTANT: zui
+IMPORTANT: 2
 
-WARNING: Warning.
+WARNING: Warning
 
 	
-CAUTION: Caution.
+CAUTION: Caution
 
-NOTE: tes
+NOTE: note
 
