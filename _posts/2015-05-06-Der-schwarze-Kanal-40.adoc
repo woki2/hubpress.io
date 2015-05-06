@@ -3,7 +3,7 @@
 :published_at: 2015-05-06
 
 Hiho, neuer Server und kleine aber feine Blogsoftware.
-link:http://hubpress.io/[HubPress]
+http://hubpress.io/[HubPress]
 
 TIP: tipp
 
