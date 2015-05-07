@@ -1,5 +1,4 @@
-= test1
-
-== test2
-
-=== test3
+= Gibt es intelligentes Leben in den "bildungsfernen Schichten"?
+_Hans-Dieter Rieveler 06.05.2015_
+*Warum ist die Hirnrinde bei Kindern reicher Eltern dicker als bei Kindern ärmerer Eltern?*
+Unterschichten-Bashing ist en vogue in Deutschland. Intelligenzforschung dagegen hat einen schweren Stand. Viele sehen darin eine Ideologie zur Rechtfertigung sozialer Ungleichheit. Doch wird die Gesellschaft wirklich gerechter, wenn man genetische Unterschiede einfach nicht zur Kenntnis nimmt? Einiges deutet darauf hin, dass genau das Gegenteil der Fall ist.
